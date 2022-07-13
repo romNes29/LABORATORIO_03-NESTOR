@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LABOR_3
 {
-    public partial class Form1 : Form
+    public partial class RegistrarC : Form
     {
-        public Form1()
+        public RegistrarC()
         {
             InitializeComponent();
         }

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Presentacion
+namespace Datos
 {
-    public class Class1
+    public class Connect
     {
     }
 }
